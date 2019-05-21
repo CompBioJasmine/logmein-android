@@ -39,6 +39,8 @@ import java.util.ArrayList;
  * The main motive is to abstract away all the nitty gritty database
  * stuff for simpler cleaner high level access.
  */
+//add a comment
+
 public class DatabaseEngine {
     // Singleton method with lazy initialization.
     private static DatabaseEngine instance = null;
